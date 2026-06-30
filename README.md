@@ -14,10 +14,10 @@ This project explores dimensionality reduction techniques for face recognition. 
 ORL Face Dataset — 400 grayscale images of 40 subjects (10 images each), each image 92×112 pixels.
 
 data/
-├── s1/   (10 images: 1.pgm … 10.pgm)
-├── s2/
-⋮
-└── s40/
+  s1/   (10 images: 1.pgm ... 10.pgm)
+  s2/
+  ...
+  s40/
 
 Place data/ in the same directory as the notebook before running.
 
